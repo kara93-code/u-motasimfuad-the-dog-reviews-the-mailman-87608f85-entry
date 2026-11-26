@@ -34,7 +34,8 @@ tagihan disimpan, amplopnya dimakan. Twist di kata terakhir.
 ## Catatan
 
 - Semua versi satu baris, di bawah 200 karakter, tanpa line break.
-- main.ts saat ini memuat versi A; ganti ke versi pilihan spesialis
-  sebelum bundle (revisi substantif di pesan terpisah).
+- PILIHAN SPESIALIS: versi C (26 Nov 15:52 WIB). main.ts direvisi
+  ke versi C (tulis ulang penuh + urutan validasi diubah) dan
+  README diperbarui mengikuti C.
 - Pool $3.10 (≤ $49) → submit 1x saja, tanpa ronde perbaikan,
   tanpa cek skor ronde.

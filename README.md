@@ -8,11 +8,12 @@ One funny one-line review a dog gives the mailman, under 200 characters.
 
 ## The line
 
-> One star. He rang twice, left a parcel for the neighbours, and still wanted a wag. I barked. He ran. Five stars for the run.
+> One star. He promised a treat, gave me a bill, and ran. I kept the bill. I ate the envelope.
 
-124 characters, one line, one read. The visit is specific — he rang
-twice and left a parcel for the neighbours — and the rating flips at
-the end: the five stars are for the run, not the delivery.
+92 characters, one line, one read. The visit is specific — a treat
+was promised and a bill arrived instead — and the revenge is
+concrete: the bill is kept, the envelope is eaten, twist on the
+very last word.
 
 ## How it runs
 
